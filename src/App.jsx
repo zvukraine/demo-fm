@@ -12,66 +12,66 @@ import './App.css'
 const initialTracks = [
   {
     id: 1,
-    title: "Ранковий джингл",
+    title: "is...",
     artist: "Demo FM",
-    duration: 15,
-    url: "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    duration: 41,
+    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/jingles/Demo%20FM%20is...mp3",
     type: "jingle"
   },
   {
     id: 2,
-    title: "Електронна композиція",
-    artist: "Місцевий виконавець",
-    duration: 180,
-    url: "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    title: "Аутентичний",
+    artist: "Demo FM",
+    duration: 89,
+    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/tracks/Demo%20FM%20-%20%D0%90%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%87.mp3",
     type: "track"
   },
   {
     id: 3,
-    title: "Новини - джингл",
+    title: "ShortOpen",
     artist: "Demo FM",
-    duration: 10,
-    url: "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    duration: 8,
+    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/jingles/Demo%20FM%20-%20Jingles%20-%20ShortOpen.mp3",
     type: "jingle"
   },
   {
     id: 4,
-    title: "Рок балада",
-    artist: "Інді група",
-    duration: 240,
-    url: "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    title: "Воднині",
+    artist: "Demo FM",
+    duration: 52,
+    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/tracks/Demo%20FM%20-%20%D0%92%D0%BE%D0%B4%D0%BD%D0%B8%D0%BD%D1%96.mp3",
     type: "track"
   },
   {
     id: 5,
-    title: "Реклама - джингл",
+    title: "RandomNonStop",
     artist: "Demo FM",
-    duration: 30,
-    url: "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    duration: 9,
+    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/jingles/DemoFM%20-%20Jingles%20-%20RandomNonStop.mp3",
     type: "jingle"
   },
   {
     id: 6,
-    title: "Джаз імпровізація",
-    artist: "Джаз квартет",
-    duration: 200,
-    url: "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    title: "СмаКолір",
+    artist: "Demo FM",
+    duration: 99,
+    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/tracks/Demo%20FM%20-%20%D0%A1%D0%BC%D0%B0%D0%9A%D0%BE%D0%BB%D1%96%D1%80.mp3",
     type: "track"
   },
   {
     id: 7,
-    title: "Вечірній джингл",
+    title: "BadSoundGoodStuff",
     artist: "Demo FM",
-    duration: 20,
-    url: "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    duration: 8,
+    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/jingles/Demo%20FM%20-%20Jingles%20-%20BadSoundGoodStuff.mp3",
     type: "jingle"
   },
   {
     id: 8,
-    title: "Поп хіт",
-    artist: "Популярний виконавець",
-    duration: 210,
-    url: "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    title: "Лайно",
+    artist: "Demo FM",
+    duration: 78,
+    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/tracks/Demo%20FM%20-%20%D0%9B%D0%B0%D0%B9%D0%BD%D0%BE.mp3",
     type: "track"
   }
 ]
