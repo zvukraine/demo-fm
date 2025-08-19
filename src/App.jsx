@@ -15,7 +15,7 @@ const initialTracks = [
     title: "is...",
     artist: "Demo FM",
     duration: 41,
-    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/jingles/Demo%20FM%20is...mp3",
+    url: "https://github.com/zvukraine/demo-fm/raw/refs/heads/main/audio/jingles/Demo%20FM%20is...mp3",
     type: "jingle"
   },
   {
@@ -23,7 +23,7 @@ const initialTracks = [
     title: "Аутентичний",
     artist: "Demo FM",
     duration: 89,
-    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/tracks/Demo%20FM%20-%20%D0%90%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%87.mp3",
+    url: "https://github.com/zvukraine/demo-fm/raw/refs/heads/main/audio/tracks/Demo%20FM%20-%20%D0%90%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%87.mp3",
     type: "track"
   },
   {
@@ -31,7 +31,7 @@ const initialTracks = [
     title: "ShortOpen",
     artist: "Demo FM",
     duration: 8,
-    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/jingles/Demo%20FM%20-%20Jingles%20-%20ShortOpen.mp3",
+    url: "https://github.com/zvukraine/demo-fm/raw/refs/heads/main/audio/jingles/Demo%20FM%20-%20Jingles%20-%20ShortOpen.mp3",
     type: "jingle"
   },
   {
@@ -39,7 +39,7 @@ const initialTracks = [
     title: "Воднині",
     artist: "Demo FM",
     duration: 52,
-    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/tracks/Demo%20FM%20-%20%D0%92%D0%BE%D0%B4%D0%BD%D0%B8%D0%BD%D1%96.mp3",
+    url: "https://github.com/zvukraine/demo-fm/raw/refs/heads/main/audio/tracks/Demo%20FM%20-%20%D0%92%D0%BE%D0%B4%D0%BD%D0%B8%D0%BD%D1%96.mp3",
     type: "track"
   },
   {
@@ -47,7 +47,7 @@ const initialTracks = [
     title: "RandomNonStop",
     artist: "Demo FM",
     duration: 9,
-    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/jingles/DemoFM%20-%20Jingles%20-%20RandomNonStop.mp3",
+    url: "https://github.com/zvukraine/demo-fm/raw/refs/heads/main/audio/jingles/DemoFM%20-%20Jingles%20-%20RandomNonStop.mp3",
     type: "jingle"
   },
   {
@@ -55,7 +55,7 @@ const initialTracks = [
     title: "СмаКолір",
     artist: "Demo FM",
     duration: 99,
-    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/tracks/Demo%20FM%20-%20%D0%A1%D0%BC%D0%B0%D0%9A%D0%BE%D0%BB%D1%96%D1%80.mp3",
+    url: "https://github.com/zvukraine/demo-fm/raw/refs/heads/main/audio/tracks/Demo%20FM%20-%20%D0%A1%D0%BC%D0%B0%D0%9A%D0%BE%D0%BB%D1%96%D1%80.mp3",
     type: "track"
   },
   {
@@ -63,7 +63,7 @@ const initialTracks = [
     title: "BadSoundGoodStuff",
     artist: "Demo FM",
     duration: 8,
-    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/jingles/Demo%20FM%20-%20Jingles%20-%20BadSoundGoodStuff.mp3",
+    url: "https://github.com/zvukraine/demo-fm/raw/refs/heads/main/audio/jingles/Demo%20FM%20-%20Jingles%20-%20BadSoundGoodStuff.mp3",
     type: "jingle"
   },
   {
@@ -71,7 +71,7 @@ const initialTracks = [
     title: "Лайно",
     artist: "Demo FM",
     duration: 78,
-    url: "https://github.com/zvukraine/demo-fm/blob/main/audio/tracks/Demo%20FM%20-%20%D0%9B%D0%B0%D0%B9%D0%BD%D0%BE.mp3",
+    url: "https://github.com/zvukraine/demo-fm/raw/refs/heads/main/audio/tracks/Demo%20FM%20-%20%D0%9B%D0%B0%D0%B9%D0%BD%D0%BE.mp3",
     type: "track"
   }
 ]
